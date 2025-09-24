@@ -9,5 +9,6 @@ int main()
     printf("\nMultiply: %d", a * b);
     
     printf("\nDivide: %d", a / b);
+    
 
 }
