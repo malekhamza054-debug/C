@@ -6,4 +6,5 @@ int main()
     scanf("%f%f", &a, &b);
     product= a*b;
     printf("product of two numbers is %f", product);
+    
 }
